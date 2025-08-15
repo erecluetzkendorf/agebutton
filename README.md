@@ -30,4 +30,4 @@ Für STRATO-Webshops:
   - Fügen Sie irgendwo HTML hinzu.
   - Fügen Sie den HTML-Code ein.
 
-Übersetzt mit DeepL.com (kostenlose Version)
+
