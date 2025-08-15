@@ -15,7 +15,7 @@ For STRATO Webshops:
 
 *****************************
 
-# agebutton
+
 Altersüberprüfungsschaltfläche Webshop
 
 
