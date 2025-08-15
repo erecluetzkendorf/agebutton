@@ -16,7 +16,7 @@ For STRATO Webshops:
 *****************************
 
 
-Altersüberprüfungsschaltfläche Webshop
+Altersüberprüfung-Button Webshop
 
 
 Ich benötigte eine Überprüfungsschaltfläche für einen Strato-Webshop, da mein Zahlungsanbieter einige willkürliche Einschränkungen auferlegt hat. Sie hat im Grunde keine Funktion und keinen Wert, aber ich habe online nichts Passendes gefunden. 
