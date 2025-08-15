@@ -6,7 +6,7 @@ It's totally vibe coded and maybe someone safes themself 20 Minutes of their lif
 
 For STRATO Webshops:
 
->Got to your main page
->Add a new Element
-  >Add HTML somewhere
-  >Insert HTML Code
+1. Got to your main page
+2. Add a new Element
+  -Add HTML somewhere
+  -Insert HTML Code
